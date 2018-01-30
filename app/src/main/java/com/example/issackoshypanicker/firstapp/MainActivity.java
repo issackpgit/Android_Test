@@ -13,7 +13,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
-    //Test
+    //Test 1
 
     public void sendMessage(View view) {
         // Do something in response to button
